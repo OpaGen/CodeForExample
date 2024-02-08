@@ -1,0 +1,7 @@
+SELECT day_id
+, MAX(day_id) OVER(ORDER BY day_id ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING)	--применяет агрегатную функцию к набору данных в партиции 
+, MIN(day_id) OVER(ORDER BY day_id ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING)	--минимум в партиции, где нет ограничения на движение функции вниз или вверх
+, MIN(day_id) OVER(ORDER BY day_id ROWS BETWEEN 1 PRECEDING AND 1 PRECEDING)	--минимум в партиции, где есть ограничения на движение функции вниз или вверх, тут функция забирает только предыдущее знечение
+, MIN(day_id) OVER(ORDER BY day_id ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING)	--минимум в партиции, где есть ограничения на движение функции вниз или вверх тут фунция забирает уже минимум из набора значений
+FROM PRD_VD_DM.V_DAYS
+WHERE day_id BETWEEN date-3 AND date+3
