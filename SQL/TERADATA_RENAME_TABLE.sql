@@ -1,0 +1,1 @@
+RENAME TABLE bas.sbu_slaes TO bas.sbu_sales

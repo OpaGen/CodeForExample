@@ -1,0 +1,36 @@
+USE TEST;
+
+GO
+
+DROP TABLE T_1;
+
+GO
+
+CREATE TABLE T_1
+
+(
+art_id INT
+);
+
+GO
+
+INSERT INTO T_1
+(art_id)
+VALUES
+	(1);
+
+GO 1000
+
+DROP TABLE T_2;
+
+GO
+
+CREATE TABLE T_2
+
+(
+art_id INT
+);
+
+GO
+
+ALTER TABLE TEST.dbo.T_1 SWITCH TO TEST.dbo.T_2;
