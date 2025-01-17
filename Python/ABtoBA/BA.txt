@@ -1,0 +1,794 @@
+Привет -- hello
+Простите -- excuse me
+Привет как у тебя дела? -- Hello. How have you been?
+прошу прощения -- i'm sorry
+Прошу прощения. Сколько это стоит? -- Excuse me. How much is this?
+Мне жаль. Это была опечатка. -- I’m sorry. It was a typo.
+Спокойной ночи. -- Good night.
+Спокойной ночи бабушка -- Good night, grandma.
+Приятно познакомиться. -- Nice to meet you.
+Пожалуйста, входите. Приятно познакомиться. -- Please come in. Nice to meet you.
+Как ты? -- How are you?
+Прошло много времени. Как ты? -- It’s been a long time. How are you?
+Да -- Yes
+Да, вот это, пожалуйста. -- Yes, this one please.
+Нет -- No.
+Нет, я еще не ел. -- No, I haven’t eaten yet.
+Спасибо -- Thank you.
+Большое вам спасибо за приглашение. -- Thank you very much for the invitation.
+До свидания -- Goodbye
+До свидания. Увидимся снова! -- Goodbye. See you again!
+плохой -- bad
+Будьте осторожны с плохими людьми. -- Be careful of bad people
+хороший -- good
+Мой учитель хороший человек. -- My teacher is a good person
+симпатичный -- pretty
+У меня есть красивая девушка. -- I have a pretty girlfriend
+уродливый -- ugly
+уродливое лицо -- ugly face
+легкий -- easy
+легкий экзамен -- easy exam
+трудный -- difficult
+сложная проблема -- difficult problem
+около -- near
+Я живу недалеко от университета. -- I live near the university
+далеко -- far
+Станция далеко отсюда. -- The station is far from here
+маленький -- small
+маленькая ошибка -- small mistake
+сегодня -- today
+домашнее задание на сегодня -- today’s homework
+вчера -- yesterday
+вчера утром -- yesterday morning
+завтра -- tomorrow
+Увидимся завтра! -- See you tomorrow!
+неделя -- week
+На этой неделе я занят. -- I’m busy this week.
+год -- year
+один год -- one year
+второй/секунда -- second
+В минуте 60 секунд. -- There are 60 seconds in a minute
+минута -- minute
+три минуты -- three minutes
+час -- hour
+Я сплю по 8 часов каждый день. -- I sleep for 8 hours every day.
+часы -- clock
+будильник -- alarm clock
+час -- o’clock
+Давайте встретимся на вокзале в 9 часов. -- Let’s meet at the station at 9 o’clock.
+календарь -- calendar
+Я отметила нашу годовщину в календаре. -- I marked our anniversary on the calendar.
+Понедельник -- Monday
+В понедельник я иду на работу. -- I go to work on Monday.
+Вторник -- Tuesday
+Вторник, 1 января -- Tuesday, January 1st
+Среда -- Wednesday
+Среда 18-е -- Wednesday the 18th
+Четверг -- Thursday
+Четверг, 3 января -- Thursday, January 3rd
+Пятница -- Friday
+Вы свободны в эту пятницу? -- Are you free this Friday?
+Суббота -- Saturday
+субботний вечер -- Saturday night
+Воскресенье -- Sunday
+Завтрак в воскресенье утром -- Sunday morning breakfast
+делать -- do
+делать домашнюю работу -- do homework
+идти -- go
+пойти в парк -- go to the park
+смех -- laugh
+Пара смеется над шуткой. -- The couple is laughing at a joke.
+вкусный -- delicious
+Китайская еда очень вкусная! -- Chinese food is delicious!
+вода -- water
+Можно мне воды, пожалуйста? -- Can I have some water, please?
+чай -- tea
+Хотите чашечку чая? -- Would you like a cup of tea?
+кофе -- coffee
+чашка кофе -- cup of coffee
+пиво -- beer
+холодное пиво -- cold beer
+вино -- wine
+бокал вина -- glass of wine
+говядина -- beef
+говяжий стейк -- beef steak
+курица -- chicken
+Курицу можно жарить, печь или запекать. -- Chicken can be fried, baked, or roasted
+свинина -- pork
+Свинина — это мясо свиньи. -- Pork is the meat from a pig
+рыба -- fish
+Курица или рыба? -- Chicken or fish?
+ягненок -- lamb
+Баранина получается необычайно вкусной. -- Lamb is extremely delicious.
+врач -- doctor
+Если вы заболеете, обратитесь к врачу. -- If you get sick go to the doctor.
+офицер полиции -- police officer
+Я обращусь за помощью к офицеру полиции. -- I’ll ask a police officer for help.
+учитель -- teacher
+Преподаватель английского языка -- English teacher
+работник -- employee
+сотрудница-женщина -- female employee
+приходить -- come
+Девушка подошла к видеокамере. -- The girl came towards the video camera.
+видеть -- see
+Туристы любовались закатом -- The tourists saw the sunset.
+делать -- make
+Шеф-повар готовит апельсиновый сок -- The chef makes orange juice.
+использовать -- use
+Программист пользовался компьютером -- The programmer used the computer
+мочь -- can
+может перепрыгнуть через -- can jump over
+ноль -- zero
+число ноль -- number zero
+один -- one
+один градус -- one degree
+два -- two
+Число два - мое любимое число -- The number two is my favorite number
+три -- three
+три доллара -- three dollars
+четыре -- four
+номер четыре -- number four
+пять -- five
+У морской звезды пять ног. -- The starfish has five legs.
+шесть -- six
+В следующем месяце у нас шестидневный отпуск -- We have a six-day vacation next month
+семь -- seven
+В каждой неделе есть семь дней. -- There are seven days in every week.
+восемь -- eight
+Восемь - счастливое число. -- Eight is a lucky number.
+девять -- nine
+девять этажей -- nine floors
+десять -- ten
+десять граммов -- ten grams
+продавец -- salesman
+продавец автомобилей -- car salesman
+менеджер -- manager
+руководитель отдела -- department manager
+готовить -- cook
+Повар поджарил яйцо -- The cook fried an egg
+инженер -- engineer
+Я инженер -- I am an engineer
+программист -- programmer
+Я компьютерный программист -- I am a computer programmer
+медсестра -- nurse
+Эта женщина - медсестра. -- The woman is a nurse.
+тело -- body
+Пища - это топливо для организма -- Food is fuel for the body.
+голова -- head
+Травмы головы очень опасны -- Head injuries are very dangerous
+рука -- hand
+левая рука -- left hand
+рука -- arm
+мускулистая рука -- muscular arm
+нога -- foot
+правая нога -- right foot
+нога -- leg
+длинные ноги -- long legs
+палец -- finger
+мизинец -- pinkie finger
+назад -- back
+У меня болит спина -- My back hurts
+желудок -- stomach
+У меня болит живот -- My stomach hurts
+грудь/сундук -- chest
+У меня болит грудь -- I have chest pains
+Январь -- January
+В январе здесь очень холодно -- It’s very cold here in January
+Февраль -- February
+Февраль - самый короткий месяц с 28 днями -- February is the shortest month with 28 days
+Март -- March
+Сейчас апрель, значит, в прошлом месяце был март -- It is now April, so last month was March
+Апрель -- April
+Апрельские дожди приносят майские цветы. -- April showers bring May flowers.
+Май -- May
+31 мая - Всемирный день борьбы с курением -- May 31st is World No Smoking Day
+Июнь -- June
+теплый июнь -- a warm June
+Июль -- July
+Июль - один из 7 месяцев с 31 днем -- July is one of 7 months with 31 days
+Август -- August
+В августе школа закрыта -- The school is closed in August.
+Сегодня суббота, 10 сентября -- Today is Saturday, September 10th
+Сентябрь -- September
+Октябрь -- October
+Хэллоуин приходится на 31 октября -- Halloween falls on October 31st
+Ноябрь -- November
+Декабрь -- December
+Ноябрь - один из четырех месяцев с тридцатью днями -- November is one of four months with thirty days.
+31 декабря - канун Нового года. -- December 31st is New Year’s Eve.
+часы -- watch
+У тебя есть часы? -- Do you have a watch?
+очки -- glasses
+Я не ношу очков -- I don’t wear glasses
+куртка -- jacket
+Этот пиджак тебе очень идет -- That jacket looks nice on you
+получать -- receive
+чтобы получить признание в любви -- to receive a confession of love
+поиск -- search
+Он появится, если вы выполните поиск в Интернете -- It will show up if you search on the Internet
+брать -- take
+Пожалуйста, отвези меня домой -- Please take me home.
+слабый -- weak
+слабая команда -- a weak team
+сильный -- strong
+Будь сильной и не сдавайся! -- Be strong and don’t give up!
+холодный -- cold
+На Северном полюсе холодно даже летом -- The North Pole is cold even in summer
+горячий -- hot
+Чай все еще горячий -- The tea is still hot.
+забавный -- funny
+Смешные комедии положений делают меня счастливой -- Funny sitcoms make me happy
+персик -- peach
+У меня аллергия на персики -- I am allergic to peaches
+оранжевый -- orange
+По утрам я пью апельсиновый сок. -- I drink orange juice in the morning.
+картофель -- potato
+Жареный картофель вреден для вашего здоровья -- Fried potato is not good for your health
+соя -- soybean
+Соевые бобы растут внутри стручков -- Soybeans grow inside the pods
+овощ -- vegetable
+Я ел жареные овощи -- I ate fried vegetables
+корова -- cow
+Коровы пасутся в поле -- The cows are grazing in the field
+свинья -- pig
+Свиньи - умные животные. -- Pigs are intelligent animals.
+лошадь -- horse
+Вы когда-нибудь раньше ездили верхом на лошади? -- Have you ever ridden a horse before?
+снег -- snow
+На горе много снега. -- There is a lot of snow on the mountain.
+рубашка -- shirt
+В шкафу десять рубашек -- There are ten shirts in the closet
+штаны -- pants
+У тебя штаны больше, чем у меня. -- Your pants are bigger than mine.
+платье -- dress
+Я жалею, что не купила это платье -- I regret not buying that dress.
+сказать -- say
+Я как раз собирался это сказать -- I was just going to say that.
+вызов -- call
+Пожалуйста, позвоните мне завтра утром -- Please give me a call tomorrow morning
+находить -- find
+Как вы нашли этот мобильный телефон? -- How did you find the cellphone?
+чистый -- clean
+Мы стремимся к чистоте окружающей среды. -- We aim for a clean environment.
+грязный -- dirty
+Вилка лежит на грязной тарелке -- The fork is on the dirty plate.
+морковь -- carrot
+Дети не любят морковь -- Kids do not like carrots.
+лук -- onion
+Я не плачу, когда режу лук. -- I don’t cry when I cut onions.
+салат -- lettuce
+В моем салате только листья салата-латука и помидоры. -- My salad only has lettuce and tomato.
+овца -- sheep
+Овца ест зеленую траву -- The sheep is eating the green grass
+кролик -- rabbit
+Твой кролик очень милый -- Your rabbit is very cute
+печать -- seal
+Тюлени обитают в самых холодных районах. -- Seals live in the coldest areas.
+облако -- cloud
+Сегодня я не вижу ни облачка -- I can’t see any clouds today
+Я часто хожу на пикник в солнечный день -- I often go on a picnic on a sunny day
+солнечный -- sunny
+дождливый -- rainy
+В эту субботу будет дождливо -- It will be rainy this Saturday.
+младенец -- baby
+Ребенок спит на одеяле. -- The baby sleeps on the blanket.
+девочка -- girl
+Девушка умывает лицо -- The girl washes her face.
+мальчик -- boy
+Мальчик упал с дерева -- The boy fell down from the tree.
+счастливый -- happy
+Я счастливый человек -- I am a happy person
+грустный -- sad
+Грустный подросток сидит в одиночестве -- The sad teenager is sitting alone
+сердитый -- angry
+Этим утром было кое-что, что разозлило меня -- There was something that made me angry this morning
+одежда -- clothing
+Я работала в магазине одежды -- I worked at a clothing store.
+башмак -- shoe
+Мне нужны новые туфли -- I need new shoes.
+носок -- sock
+Ты носишь носки? -- Are you wearing socks?
+нижнее белье -- underwear
+Мои носки и нижнее белье лежат в верхнем ящике комода -- My socks and underwear are in the top drawer of my dresser.
+говорить -- talk
+Давайте поговорим об этом -- Let’s talk about it
+дать -- give
+Могу я дать вам полезный совет -- Can I give you an useful tip
+низкий -- low
+Этот столик слишком низкий для меня -- This table is too low for me
+высокий -- high
+Волны сегодня высокие -- The waves are high today
+фрукты -- fruit
+Пожалуйста, выложите фрукты на тарелку -- Please put the fruits on the plate
+осьминог -- octopus
+Осьминог плавает в океане. -- The octopus is swimming in the ocean.
+акула -- shark
+Серфингиста укусила акула -- The surfer was bitten by a shark
+кит -- whale
+Киты - это млекопитающие -- Whales are mammals
+облачный -- cloudy
+Я не люблю пасмурные дни -- I don’t like cloudy days
+прохладный -- cool
+Погода стоит прохладная. -- The weather is cool.
+огурец -- cucumber
+Эти огурцы свежие -- These cucumbers are fresh
+болгарский перец -- bell pepper
+Наиболее распространенные виды болгарского перца - зеленый, красный или желтый -- The most common bell peppers are green, red, or yellow
+брокколи -- broccoli
+Закажите суп из брокколи. -- Order the broccoli soup.
+банан -- banana
+Этот банан действительно сладкий -- This banana is really sweet
+яблоко -- apple
+Я чищу яблоко -- I’m peeling an apple
+виноград -- grape
+арбуз -- watermelon
+Этот виноград выглядит довольно старым. -- That grape looks pretty old.
+Она купила огромный арбуз -- She bought a huge watermelon
+птица -- bird
+Мы слушали пение птиц -- We listened to the birds.
+мышь -- mouse
+Мышь ест траву -- The mouse is eating grass
+солнце -- sun
+Сегодня светит солнце! -- Today the sun is shining!
+погода -- weather
+Какая ужасная погода -- This weather is awful
+степень/градус/уровень -- degree
+Это на один градус выше -- It is one degree outside.
+женщина -- woman
+На женщине черный свитер -- The woman is wearing a black sweater.
+человек -- man
+Директор - очень серьезный человек -- The director is a very serious man
+девушка -- girlfriend
+Твоя девушка на год старше тебя, верно? -- Your girlfriend is one year older than you, right?
+парень -- boyfriend
+Она поедет на Принцевы острова со своим парнем -- She’ll go to the Prince Islands with her boyfriend
+поезд -- train
+Во сколько отправляется последний поезд? -- What time is the last train?
+самолет -- airplane
+Пассажиры летели на самолете -- The passengers flew on the airplane.
+автобус -- bus
+Он ездит на автобусе -- He rides the bus.
+такси -- taxi
+Позвони мне после того, как сядешь в такси -- Give me a call after you get in the taxi
+шпинат -- spinach
+Шпинат - богатый источник железа и кальция -- Spinach is a rich source of iron and calcium
+дельфин -- dolphin
+Дельфин выпрыгивает из воды -- The dolphin jumps out of the water
+кальмар -- squid
+Я не могу есть кальмаров -- I can’t eat squid
+собака -- dog
+Это ваша собака? -- Is that your dog?
+кошка -- cat
+Моя кошка любит вздремнуть после обеда. -- My cat likes to take a nap in the afternoon.
+хомяк -- hamster
+Хомячки любят поспать днем -- Hamsters like to sleep during the day.
+теплый -- warm
+Суп должен быть теплым -- The soup must be warm
+дождь -- rain
+На улице идет дождь. -- The rain is falling on the street
+помидор -- tomato
+Мой дедушка выращивает помидоры в своем саду. -- My grandfather grows tomatoes in his garden.
+клубника -- strawberry
+Я люблю клубнику, а не яблоки -- I like strawberry; not apple
+Я хочу съесть вишни -- I want to eat cherries
+вишня -- cherry
+ребенок -- child
+Когда я был ребенком, я каждый день ездил в школу на велосипеде. -- When I was a child, I used to ride my bike to school every day.
+друг -- friend
+Я встретил друга в парке. -- I met a friend at the park.
+взрослый -- adult
+Иногда быть взрослым просто не очень-то весело -- Sometimes, being an adult just isn’t very fun
+велосипед -- bicycle
+Велосипед стоит в гараже -- The bicycle is in the garage.
+машина -- car
+Что это за машина такая? -- What kind of car is it?
+мотоцикл -- motorcycle
+У него есть две машины и мотоцикл -- He has two cars and a motorcycle.
+скутер -- scooter
+Самокаты удобны в городе -- Scooters are convenient in the city
+лодка -- boat
+Лодка плывет по воде -- The boat floats on the water
+медуза -- jellyfish
+Медузы покачиваются в воде -- The jellyfish are bobbing in the water
+лобстер -- lobster
+Омары стоят очень дорого -- Lobsters are very expensive
+краб -- crab
+Крабы обычно ходят боком. -- Crabs usually walk side-ways.
+черепаха -- turtle
+Морская черепаха плавает в море -- The sea turtle is swimming in the sea
+вертолет -- helicopter
+Генеральный директор ездит на работу на вертолете -- The CEO travels to work by helicopter
+черный -- black
+У меня есть черный кот. -- I have a black cat
+коричневый -- brown
+У моего дяди новая пара коричневых ботинок. -- My uncle has a new pair of brown shoes.
+серый -- gray
+отдых -- rest
+Серый — не очень броский цвет. -- Gray is not a very flashy color
+Я просто отдыхаю. -- I’m just resting.
+слышать -- hear
+Я тебя едва слышу. -- I can barely hear you
+хотеть -- want
+Я хочу есть вишню. -- I want to eat cherries.
+отвратительный -- disgusting
+Тараканы отвратительны -- Cockroaches are disgusting
+одиннадцать -- eleven
+В этом универмаге одиннадцать этажей. -- This department store has eleven floors.
+двенадцать -- twelve
+Сейчас двенадцать часов. -- It’s twelve o’clock
+тринадцать -- thirteen
+Ей тринадцать лет. -- She is thirteen years old
+электронная почта -- e-mail
+Какой у вас электронный адрес? -- What’s your e-mail address?
+сотовый телефон -- cellular phone
+С помощью мобильного телефона вы можете совершать звонки практически из любой точки мира. -- With a cellular phone, you can make calls from almost anywhere
+текстовое сообщение -- text message
+Она связалась со мной посредством текстового сообщения. -- She contacted me via text message.
+рот -- mouth
+Следите за своим языком! -- Watch your mouth!
+щека -- cheek
+Ее щеки очень красные. -- Her cheeks are very red
+нос -- nose
+У меня заложен нос -- My nose is stuffy.
+блокнот -- notebook
+У меня есть отдельная тетрадь для каждого класса. -- I have a separate notebook for each class
+карандаш -- pencil
+Карандаш сломался пополам -- The pencil broke in half.
+ластик -- eraser
+Могу ли я воспользоваться вашим ластиком? -- Can I use your eraser?
+белый -- white
+Белую мебель трудно содержать в чистоте -- It is difficult to keep white furniture clean
+красный -- red
+Бокал красного вина, пожалуйста -- A glass of red wine, please
+зеленый -- green
+Он покрасил стену в зеленый цвет. -- He painted the wall green.
+заканчивать -- finish
+Ты закончила свою домашнюю работу -- Did you finish your homework
+начало -- start
+Завтра начинается моя новая работа. -- My new job starts tomorrow.
+становиться -- become
+Красный, смешанный с желтым, становится оранжевым -- Red mixed with yellow becomes orange
+четырнадцать -- fourteen
+У меня четырнадцать учеников -- I have fourteen students.
+пятнадцать -- fifteen
+Я пробуду в Таиланде пятнадцать дней -- I will be in Thailand for fifteen days
+шестнадцать -- sixteen
+У нас есть шестнадцать минут -- We have sixteen minutes
+телефон -- telephone
+Звонит телефон -- The telephone is ringing
+глаз -- eye
+У меня сухие глаза -- My eyes are dry
+зубы -- teeth
+Ты почистил зубы? -- Did you brush your teeth?
+губа -- lip
+У тебя что-то на губе -- You have something on your lip
+копировальный аппарат -- copy machine
+Могу ли я воспользоваться копировальным аппаратом? -- Can I use the copy machine?
+письменный стол -- desk
+Книги лежат под столом -- The books are under the desk
+книга -- book
+На столе лежат несколько старых книг. -- There are some old books on the table.
+ручка -- pen
+Это ручка. -- It’s a pen.
+почтовое отделение -- post office
+Почтовое отделение открыто до 17:00 -- The post office is open until 5PM
+библиотека -- library
+Библиотека там. -- The library is over there
+супермаркет -- supermarket
+Этот супермаркет очень дешевый. -- This supermarket is very cheap
+помощь -- help
+Спасибо вам за вашу помощь! -- Thank you for your help!
+учить -- learn
+Узнать что-то новое -- Learn something new.
+двигаться -- move
+Аллигаторы медленно передвигаются по воде -- The alligators are slowly moving through the water
+семнадцать -- seventeen
+Его дочери семнадцать лет -- His daughter is seventeen years old
+восемнадцать -- eighteen
+Ему восемнадцать лет -- He’s eighteen years old
+девятнадцать -- nineteen
+Здесь девятнадцать книг -- There are nineteen books here
+двадцать -- twenty
+Он был моим другом в течение двадцати лет -- He has been my friend for twenty years.
+У меня болит шея -- I’ve got a pain in my neck
+шея -- neck
+лицо -- face
+Можешь показать мне свое самое смешное лицо? -- Can you show me your funniest face?
+ухо -- ear
+У меня есть два уха -- I have two ears
+волосы -- hair
+У женщины черные волосы -- The woman has black hair
+гора -- mountain
+Маленький городок приютился в горах -- The little town was nestled in the mountains
+пляж -- beach
+На пляже есть спасатель -- There’s a lifeguard at the beach
+тропический лес -- rainforest
+В Таиланде много тропических лесов -- Thailand has many rainforests.
+остров -- island
+Остров окружен водой -- An island is surrounded by water.
+словарь -- dictionary
+Я купил этот словарь для тебя -- I bought this dictionary for you
+синий -- blue
+Небо ярко-голубое -- The sky is bright blue
+желтый -- yellow
+У Ханны желтая шляпа. -- Hanna has a yellow hat.
+цвет -- color
+Я выбрала не тот цвет -- I got the wrong color
+скучный -- boring
+Моя работа скучна -- My job is boring
+захватывающий -- exciting
+Фильм был очень захватывающим -- The movie was very exciting
+важный -- important
+Вода важна для нашего организма -- Water is important to our body
+кредитная карта -- credit card
+Вы принимаете кредитные карты? -- Do you take credit card?
+ключ -- key
+Я потерял ключи от своей машины -- I lost my car key
+водительские права -- driver’s license
+У вас есть водительские права? -- Do you have a driver’s licence?
+лес -- forest
+Енот ест арахис в лесу -- The raccoon is eating peanuts in the forest
+река -- river
+Медведь гризли бежит по реке -- The grizzly bear is running in the river.
+океан -- ocean
+Солнце садится за голубой океан -- The sun sets behind the blue ocean.
+озеро -- lake
+Лебедь плавает в озере -- The swan is swimming in the lake.
+документ -- document
+Она подписала документ и вернула его обратно -- She signed the document and returned it
+компьютер -- computer
+У меня новый компьютер -- I have a new computer
+факсимильный аппарат -- fax machine
+У вас есть факс-аппарат? -- Do you have a fax machine?
+принтер -- printer
+Принтер в офисе сломан -- The printer at the office is broken.
+механический карандаш -- mechanical pencil
+Красный механический карандаш снабжен зеленым ластиком. -- The red mechanical pencil has a green eraser.
+линейка -- ruler
+Я провожу линии с помощью линейки -- I use a ruler to draw lines
+маркер -- marker
+В маркере заканчиваются чернила -- The marker is running low on ink
+банк -- bank
+Есть ли здесь поблизости банк? -- Is there a bank near here?
+ночной магазин -- convenience store
+Сходи в круглосуточный магазин и купи немного молока -- Go to the convenience store, and buy some milk
+больница -- hospital
+Она работает в больнице -- She works in a hospital
+бумажник -- wallet
+Мой бумажник полон квитанций -- My wallet is full of receipts
+кошелек -- purse
+Это большой кошелек -- This is a big purse.
+приказ/заказ -- order
+Подтвердите заказ -- Confirm the order
+поле -- field
+Лошадь бежит по полю -- The horse is running in the field
+пустыня -- desert
+Солнце нагревает раскаленную пустыню -- The sun is heating the hot desert
+босс -- boss
+Наш босс разрешает нам уходить пораньше по средам -- Our boss allows us to leave earlier on Wednesdays
+офис -- office
+Офис открывается в восемь часов -- The office opens at eight o’clock
+коллега по работе -- co-worker
+Каждый четверг я хожу куда-нибудь поесть со своим коллегой -- I go out to eat with my co-worker every Thursday.
+встреча -- meeting
+Я забыл, что встреча назначена на сегодня -- I forgot that the meeting was today
+полицейский участок -- police station
+Полицейские машины припаркованы возле полицейского участка -- The police cars are parked outside the police station
+аптека -- pharmacy
+Есть ли поблизости аптека? -- Is there a pharmacy nearby?
+пекарня -- bakery
+Каждое воскресенье она ходит со своими детьми в пекарню. -- She goes to the bakery every Sunday with her kids.
+кинотеатр -- movie theater
+В этом кинотеатре так много народу. -- This movie theater is so crowded.
+переговоры -- negotiation
+После двух лет переговоров обе страны наконец смогли прийти к соглашению. -- After two years of negotiation, the two countries were finally able to come to an agreement.
+контракт -- contract
+Не могли бы вы приехать к нам в офис, чтобы подписать контракт? -- Could you come to our office to sign the contract?
+бизнес -- business
+У моего отца свой бизнес. -- My dad owns a business.
+сделка -- deal
+Мы заключили сделку. -- We have a deal.
+Сегодня вечером я занят -- I’m busy tonight
+занятый -- busy
+серьезный -- serious
+Депрессия - это очень серьезное психическое заболевание -- Depression is a very serious mental illness
+уставший -- tired
+Спасибо, но я действительно устала. -- Thanks, but I’m really tired.
+превосходящий -- superior
+Мой начальник очень спокоен -- My superior is very calm.
+компания -- company
+Что вы знаете об этой компании? -- What do you know about this company?
+зарплата -- salary
+Каковы ваши требования к заработной плате? -- What are your salary requirements?
+радио -- radio
+Мне нравится слушать радио -- I like listening to the radio.
+телевидение -- television
+Семья смотрит телевизор -- The family is watching television.
+Я собираю информацию из Интернета. -- I gather information from the Internet.
+Интернет -- Internet
+газета -- newspaper
+Каждое утро я читаю газету. -- I read the newspaper every morning.
+новостной канал -- news channel
+Вечером я включаю новостной канал. -- I turn on the news channel in the evening.
+музыкальный инструмент -- musical instrument
+Вы умеете играть на музыкальном инструменте? -- Can you play a musical instrument?
+Эта картина очень художественна -- This painting is very artistic.
+картина -- painting
+театр -- theater
+Где находится театр? -- Where is the theatre?
+музыкальный -- musical
+Я купил билеты на мюзикл -- I got tickets to a musical.
+опера -- opera
+Мои бабушка и дедушка любят ходить в оперу. -- My grandparents love going to the opera.
+расслабиться -- relax
+Расслабься, все будет хорошо. -- Relax, everything will be fine.
+белая доска -- whiteboard
+Белая доска - это идеальное средство для наглядной демонстрации чего-либо. -- A whiteboard is a perfect means to demonstrate something visually.
+школьная доска -- blackboard
+Учитель пишет на доске. -- The teacher writes on the blackboard.
+тест -- test
+Тест состоится в следующий вторник. -- The test is on next Tuesday.
+учебник -- textbook
+В течение года мы пройдем весь учебник целиком. -- During the year, we will cover the entire textbook.
+фасад -- front
+Он стоит передо мной. -- He is in front of me.
+работа -- job
+У меня напряженная работа -- I have a busy job.
+президент -- president
+Он - президент. -- He is the president.
+промышленность -- industry
+Промышленным предприятиям необходимо сокращать количество отходов. -- Industries need to reduce their wastes.
+пояс -- belt
+На девушке надет пояс красного цвета. -- The girl is wearing a red color belt.
+монета -- coin
+У меня нет монет. -- I don’t have coins.
+деньги -- money
+Ты просто зря тратишь свои деньги -- You’re just wasting your money
+дебетовая карта -- debit card
+Я потерял свою дебетовую карту, и мне пришлось обратиться в полицию. -- I lost my debit card and had to go to the police.
+законопроект/закон/счет -- bill
+В конце концов ему удалось оплатить все свои счета -- He finally managed to pay all his bills
+фотография -- photography
+Вы изучаете фотографию? -- Are you studying photography?
+снять -- take of
+Самолет вылетает через двадцать минут. -- The plane will take off in twenty minutes.
+спальня -- bedroom
+кухня -- kitchen
+Из спальни открывается прекрасный вид. -- The view from the bedroom is beautiful.
+Шеф-повар готовит на кухне -- The chef cooks in the kitchen.
+ванная -- bathroom
+В ванной комнате есть крошечное окошко. -- The bathroom has a tiny window.
+выпускной -- graduation
+Вы приглашены на выпускной вечер моей сестры. -- You are invited to my sister’s graduation.
+продвижение -- promotion
+Он заслужил это повышение. -- He earned this promotion.
+годовщина/юбилей -- anniversary
+С наилучшими пожеланиями по случаю вашей годовщины. -- Best wishes for your anniversary.
+похороны -- funeral
+Похороны - это время для скорби и воспоминаний. -- A funeral is a time to grieve and remember.
+свадьба -- wedding
+Когда состоится свадьба? -- When is the wedding?
+объяснять -- explain
+Не могли бы вы объяснить мне это еще раз? -- Can you explain that to me once more?
+За нашим домом разбит сад. -- At the back of our house, we have a garden.
+Солнце встает на востоке. -- The sun rises in the east.
+восток -- east
+галстук -- necktie
+Какой галстук подходит к этой рубашке? -- Which necktie matches this shirt?
+подходить/костюм/одежда -- suit
+Никогда не надевайте костюм и спортивную обувь вместе. -- Never wear a suit and a pair of sport shoes together.
+кроссовок -- sneaker
+Мои кроссовки очень удобные. -- My sneakers are very comfortable.
+двадцать один -- twenty-one
+В здании двадцать один этаж. -- The building has twenty-one storeys.
+двадцать два -- twenty-two
+Двадцать два - ее любимое число. -- Twenty-two is her favorite number.
+тридцать три -- thirty-three
+В этой книге тридцать три страницы. -- This book has thirty-three pages.
+сорок четыре -- forty-four
+В этом году у меня будет сорок четыре экзамена. -- I’ll have forty-four exams this year.
+пятьдесят пять -- fifty-five
+В моем телевизоре пятьдесят пять каналов. -- My TV has fifty-five channels.
+студент/ученик -- student
+Она хорошая ученица. -- She is a good student.
+Я хочу посмотреть фильм. -- I want to watch a movie.
+класс/аудитория -- classroom
+Она была одна в классе. -- She was alone in the classroom.
+школа -- school
+Многие школы больше не проводят занятия по искусству. -- Many schools don’t offer art classes anymore.
+школьный стул -- school chair
+Я купила подушку для своего школьного стула. -- I bought a cushion for my school chair.
+школьная парта -- school desk
+Стул крепится к школьной парте. -- The chair is attached to the school desk.
+сидеть в интернете -- surf the Internet
+Каждый вечер перед сном я просматриваю Интернет -- I surf the Internet every night before bed
+север -- north
+Дует холодный северный ветер -- The north wind is cold
+вернуть -- return
+Когда я должен его вернуть? -- When must I return it?
+купать -- bathe
+Я люблю мыться вечером, сразу после работы. -- I like to bathe in the evening just after work.
+спать -- sleep
+Тебе следует лечь спать пораньше. -- You should sleep early.
+юг -- south
+Птицы улетают на юг. -- The birds are flying to the south.
+пижама -- pajamas
+Я хочу купить новую пижаму. -- I want to buy a new pair of pajamas.
+лифчик -- brassiere
+белый бюстгальтер -- white brassiere
+проснуться -- wake up
+Мне нужен будильник, чтобы проснуться. -- I need an alarm to help me wake up.
+добираться -- commute
+Я езжу на работу на поезде. -- I commute to work by train.
+есть/кушать -- eat
+Семья завтракает. -- The family is eating breakfast.
+искусство -- art
+Она хороша в искусстве. -- She is good at art.
+литература -- literature
+Литература полна символов в историях. -- Literature is full of symbols in stories.
+фильм -- movie
+Как насчет того, чтобы посмотреть фильм? -- How about seeing a movie?
+музыка -- music
+Местная музыка очень интересна. -- The local music is very interesting.
+отвечать -- answer
+Он знает ответ. -- He knows the answer.
+учить -- teach
+Она преподает в университете. -- She teaches classes at the university.
+просить/спрашивать -- ask
+Нужно ли нам спрашивать? -- Do we need to ask?
+закрывать -- close
+Не могли бы вы закрыть дверь? -- Could you close the door?
+рождение -- birth
+Мы празднуем наше рождение каждый год. -- We celebrate our birth every year.
+работа -- work
+включать -- turn on
+У меня много работы. -- I have a lot of work.
+Мужчина включил свет. -- The man turned on the light.
+выключить -- turn off
+Остановите машину и заглушите двигатель. -- Stop the car and turn off the engine.
+питаться вне дома -- eat out
+Люди любят обедать где-нибудь по выходным. -- People like to eat out on the weekends.
+посещать -- attend
+Я посещаю собрание. -- I attend a meeting.
+запад -- west
+Солнце садится на западе. -- The sun sets in the west.
+щетка -- brush
+Очень важно чистить зубы два раза в день. -- It is very important to brush your teeth twice a day.
+душ -- shower
+Мужчина принимает душ по утрам. -- The man showers in the morning.
+мыть -- wash
+Женщина умывает лицо. -- The woman is washing her face.
+покидать -- leave
+Я уезжаю завтра рано утром. -- I leave early tomorrow morning.
+проверять -- check
+Могу я получить чек, пожалуйста? -- Could I get the check, please?
+шестьдесят шесть -- sixty-six
+Я бежал шестьдесят шесть минут. -- I ran for sixty-six minutes.
+семьдесят семь -- seventy-seven
+Номер его двери - семьдесят семь. -- His door number is seventy-seven.
+восемьдесят восемь -- eighty-eight
+В компании работает восемьдесят восемь сотрудников. -- The company has eighty-eight employees.
+девяносто девять -- ninety-nine
+Его дедушке девяносто девять лет. -- His grandfather is ninety-nine years old.
+сто -- one hundred
+В моей школе учится сто человек. -- There are one hundred people in my school.
+гостиная -- living room
+Эта гостиная просто огромная. -- This living room is huge.
+столовая -- dining room
+Столовая находится рядом с кухней. -- The dining room is next to the kitchen.
+прихожая -- hallway
+Не бегай по коридорам. -- Don’t run in the hallways.
+квартира -- apartment
+Вы хотите снять квартиру? -- Do you want to rent an apartment?
+дом -- house
+Это мой дом. -- This is my house.
+упражнение -- exercise
+Плавание - хороший способ тренировки. -- Swimming is a good way to exercise.
+открывать -- open
+Магазин открыт с 9 утра. -- The store is open from 9 a.m.
+слушать -- listen
+Вам следует прислушаться к совету врача. -- You should listen to the doctor.
+день рождения -- birthday
+Сегодня вечером я иду на вечеринку по случаю дня рождения. -- I’m going to a birthday party this evening.
+уходить в отставку/пенсия -- retire
+Мой дедушка хочет выйти на пенсию через год. -- My grandfather wants to retire in a year.
